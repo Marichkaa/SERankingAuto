@@ -7,4 +7,10 @@ npm install
 ```
 to install needed packages locally
 
+to execute test please run 
+
+```
+yarn open
+```
+
 Will be glad to have any feedback, thanks!
